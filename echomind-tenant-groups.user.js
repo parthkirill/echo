@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         EchoMind Tenant Groups
 // @namespace    echomind-tenant-groups
-// @version      2.7.3
+// @version      2.7.4
 // @description  Фильтрация, сортировка и экспорт тенантов EchoMind + интеграция Chatwoot → EchoMind Test prompts.
 // @match        https://echomind.space/*
 // @match        https://*.echomind.space/*
 // @match        https://app.chatwoot.com/*
+// @updateURL    https://github.com/parthkirill/echo/raw/main/echomind-tenant-groups.user.js
+// @downloadURL  https://github.com/parthkirill/echo/raw/main/echomind-tenant-groups.user.js
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @grant        GM_addValueChangeListener
