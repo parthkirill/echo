@@ -1,0 +1,8 @@
+# Папки с выгрузками диалогов и тегов (не для публичного доступа)
+/BLUEBERRY*
+/GRAPE*
+/MANGO*
+/RASPBERRY*
+/outputs/
+/TAGS/
+*.zip
